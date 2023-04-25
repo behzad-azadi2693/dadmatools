@@ -18,3 +18,4 @@ gdown==4.2.0
 conllu==4.4.1
 py7zr==0.17.2
 NERDA
+scikit-learn
